@@ -229,11 +229,11 @@ joe.scopeArrow();
 
 // DONE: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-// 
-// 
+// In the console log "this" is referring to the Student Joe Object.
+//
 // 2. What is "this" when joe.scopeArrow() is invoked?
-// 
-// 
+// In the console log, this is referring to the window object.
+//
 // 3. Explain why "this" is different when an arrow function is used.
-// 
-// 
+// An arrow mfunction cannot store the variables of a constructor function.
+//
